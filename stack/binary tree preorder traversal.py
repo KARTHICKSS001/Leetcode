@@ -8,6 +8,5 @@ class Solution:
             ans.append(curr.val)
             traversal(curr.left)
             traversal(curr.right)
-            
         traversal(root)
         return ans
