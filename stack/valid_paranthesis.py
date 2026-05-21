@@ -15,5 +15,4 @@ class Solution:
 
                 stack.pop()
 
-        # stack should be empty
         return len(stack) == 0
