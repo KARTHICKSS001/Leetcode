@@ -5,4 +5,3 @@ class Solution:
         lst = list(map(int, str(num)))
         return lst
         
- 
