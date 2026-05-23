@@ -4,4 +4,3 @@ class Solution:
         num+=1
         lst = list(map(int, str(num)))
         return lst
-        
